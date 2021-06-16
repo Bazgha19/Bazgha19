@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bazgha19&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
 <!-- - 📫 How to reach me: **sbs019190@gmail.com** -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazgha19&show_icons=true&locale=en&layout=compact" alt="github" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazgha19&show_icons=true&theme=radical&layout=compact" alt="github" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bazgha19&show_icons=true&locale=en" alt="github" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bazgha19&show_icons=true&theme=radical" alt="github" /></p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
