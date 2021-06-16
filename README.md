@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bazgha Razi</h1>
 <h3 align="center">An Enthusiast For Tech</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bazgha19&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
 <!-- - 📫 How to reach me: **sbs019190@gmail.com** -->
 
@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bazgha19&show_icons=true&locale=en" alt="github" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bazgha19&" alt="github" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bazgha19&" alt="github" /></p> -->
