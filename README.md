@@ -5,7 +5,8 @@
 
 <!-- - 📫 How to reach me: **sbs019190@gmail.com** -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazgha19&show_icons=true&theme=radical&layout=compact" alt="github" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bazgha19&show_icons=true&theme=radical&layout=compact" alt="github" /></p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bazgha19&layout=compact)](https://github.com/Bazgha19/github-readme-stats)
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bazgha19&show_icons=true&theme=radical" alt="github" /></p>
 <br>
