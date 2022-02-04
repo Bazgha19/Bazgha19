@@ -21,6 +21,7 @@
 <a href="https://www.codechef.com/users/bazgha_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sbs019190" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="hackerrank" height="35" width="40" /></a>
 </p>
-
-![snake gif](https://github.com/Bazgha19/Bazgha19/blob/output/github-contribution-grid-snake.gif)
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bazgha19&" alt="github" /></p> -->
+<p align="center">
+<img src = "https://github.com/Bazgha19/Bazgha19/blob/output/github-contribution-grid-snake.svg">
+</p>
+  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bazgha19&" alt="github" /></p> -->
