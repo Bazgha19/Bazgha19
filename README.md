@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bazgha-razi-00725220b" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/bazgha_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
+<a href="https://twitter.com/bazgha_razi" target="blank"><img align="center" src="https://toppng.com/uploads/preview/red-twitter-logo-11549680466ua0eyzyb5c.png" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sbs019190" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="hackerrank" height="35" width="40" /></a>
 </p>
 <p align="center">
