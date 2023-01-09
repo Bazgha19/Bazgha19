@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bazgha-razi-00725220b" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://twitter.com/bazgha_razi" target="blank"><img align="center" src="" height="30" width="40" /></a>
+<a href="https://twitter.com/bazgha_razi" target="blank"></a>
 </p>
 <p align="center">
 <img src = "https://github.com/Bazgha19/Bazgha19/blob/output/github-contribution-grid-snake.svg">
